@@ -1,3 +1,5 @@
+了解Git：https://baike.baidu.com/item/GIT/12647237?fromModule=lemma_search-box#7
+
 # 在当前目录新建一个Git代码库
 $ git init
  
